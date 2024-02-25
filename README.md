@@ -1,5 +1,4 @@
-# 💫 About Me:
-AI application
+# 💫 building AI applications
 
 
 # 💻 Tech Stack:
