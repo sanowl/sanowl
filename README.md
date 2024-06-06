@@ -1,6 +1,5 @@
 
 
-![Profile views](https://gpvc.arturio.dev/san)
 
 ## Top Used Programming Languages
 
