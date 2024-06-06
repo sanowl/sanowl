@@ -1,9 +1,7 @@
 
-
-
 ## Top Used Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanowl&layout=compact&langs_count=10&hide=makefile&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanowl98&layout=compact&langs_count=10&hide=makefile&theme=radical&hide_title=true&hide_border=true&card_width=500&langs_count=8&exclude_repo=repo1,repo2&include_all_commits=true&count_private=true)
 
 ## Technologies & Tools
 
@@ -24,9 +22,6 @@
 ![LightGBM](https://img.shields.io/badge/-LightGBM-000?&logo=lightgbm)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
 ![FastAI](https://img.shields.io/badge/-FastAI-000?&logo=fastai)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=plotly)
 ![MXNet](https://img.shields.io/badge/-MXNet-000?&logo=apachemxnet)
 ![Theano](https://img.shields.io/badge/-Theano-000?&logo=theano)
 ![CNTK](https://img.shields.io/badge/-CNTK-000?&logo=cntk)
@@ -36,3 +31,21 @@
 ![Horovod](https://img.shields.io/badge/-Horovod-000?&logo=horovod)
 ![Dask](https://img.shields.io/badge/-Dask-000?&logo=dask)
 ![H2O.ai](https://img.shields.io/badge/-H2O.ai-000?&logo=h2o.ai)
+![Tesseract](https://img.shields.io/badge/-Tesseract-000?&logo=tesseract)
+![PyCaret](https://img.shields.io/badge/-PyCaret-000?&logo=pycaret)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=googlecloud)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-000?&logo=kubeflow)
+![Seldon](https://img.shields.io/badge/-Seldon-000?&logo=seldon)
+![Alibi](https://img.shields.io/badge/-Alibi-000?&logo=alibi)
+![Rapids](https://img.shields.io/badge/-Rapids-000?&logo=rapidsai)
+![Optuna](https://img.shields.io/badge/-Optuna-000?&logo=optuna)
+![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=mlflow)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
+![Bokeh](https://img.shields.io/badge/-Bokeh-000?&logo=bokeh)
+![Panel](https://img.shields.io/badge/-Panel-000?&logo=panel)
+![DVC](https://img.shields.io/badge/-DVC-000?&logo=dvc)
+![ClearML](https://img.shields.io/badge/-ClearML-000?&logo=clearml)
+![Polyaxon](https://img.shields.io/badge/-Polyaxon-000?&logo=polyaxon)
+![Comet](https://img.shields.io/badge/-Comet-000?&logo=comet)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20&%20Biases-000?&logo=wandb)
+![Ray](https://img.shields.io/badge/-Ray-000?&logo=ray)
