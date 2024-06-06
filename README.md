@@ -6,9 +6,7 @@
 
 Hi, I'm San! I'm an AI engineer with a passion for creating intelligent applications.
 
-- 🔭 I’m currently working on [Project Name](project-link)
-- 🌱 I’m currently learning advanced machine learning techniques
-- 👯 I’m looking to collaborate on AI and ML projects
+- 🌱 I’m currently diving deep into deep learning research
 - 💬 Ask me about AI, machine learning, and data science
 - 📫 How to reach me: [sanowl98@gmail.com](mailto:sanowl98@gmail.com)
 
