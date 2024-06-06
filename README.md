@@ -1,7 +1,7 @@
 
 ## Top Used Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanowl&layout=compact&langs_count=10&hide=makefile&theme=radical&hide_title=true&hide_border=true&card_width=500&langs_count=8&exclude_repo=repo1,repo2&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanowl&layout=compact&langs_count=10&hide=makefile&theme=radical&hide_title=true&hide_border=true&card_width=500&exclude_repo=repo1,repo2&include_all_commits=true&count_private=true&custom_title=Top%20Languages)
 
 ## Technologies & Tools
 
