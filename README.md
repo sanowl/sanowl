@@ -1,30 +1,33 @@
-
 # Welcome to My GitHub Profile!
 
-![Profile views](https://gpvc.arturio.dev/username)
+![Profile views](https://gpvc.arturio.dev/san)
 
 ## About Me
 
-Hi, I'm [Your Name]! I'm a software developer with a passion for creating amazing applications.
+Hi, I'm San! I'm an AI engineer with a passion for creating intelligent applications.
 
 - 🔭 I’m currently working on [Project Name](project-link)
-- 🌱 I’m currently learning [Technology]
-- 👯 I’m looking to collaborate on [Project Type]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 🌱 I’m currently learning advanced machine learning techniques
+- 👯 I’m looking to collaborate on AI and ML projects
+- 💬 Ask me about AI, machine learning, and data science
+- 📫 How to reach me: [sanowl98@gmail.com](mailto:sanowl98@gmail.com)
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical)
+![San's GitHub stats](https://github-readme-stats.vercel.app/api?username=san&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=san&theme=radical)
 
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
 
 ## Projects
 
