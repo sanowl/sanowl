@@ -1,20 +1,9 @@
-# Welcome to My GitHub Profile!
 
 ![Profile views](https://gpvc.arturio.dev/san)
 
-## About Me
+## Top Used Programming Languages
 
-Hi, I'm San! I'm an AI engineer with a passion for creating intelligent applications.
-
-- 🌱 I’m currently diving deep into deep learning research
-- 💬 Ask me about AI, machine learning, and data science
-- 📫 How to reach me: [sanowl98@gmail.com](mailto:sanowl98@gmail.com)
-
-## GitHub Stats
-
-![San's GitHub stats](https://github-readme-stats.vercel.app/api?username=san&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=san&theme=radical)
 
 ## Technologies & Tools
 
@@ -26,13 +15,3 @@ Hi, I'm San! I'm an AI engineer with a passion for creating intelligent applicat
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
-
-## Projects
-
-- [Project 1](project-link-1)
-- [Project 2](project-link-2)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/your-profile)
