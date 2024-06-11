@@ -1,44 +1,41 @@
-
 # Hi there, I'm San 🦉
 
-**AI Software Engineer and Backend Developer**
+**AI Software Engineer | Backend Developer | Full Stack Developer**
 
 ---
 
-🔭 I’m currently working on:
-- Advanced Machine Learning models
-- Real-time Language Translation
-- High-Rank Matrix Adaptation for Parameter-Efficient Fine-Tuning of Large Language Models
+🔭 **Current Projects:**
+- **Advanced Machine Learning Models:** Developing cutting-edge models for various applications.
+- **Real-time Language Translation:** Implementing systems to break language barriers instantly.
+- **High-Rank Matrix Adaptation:** Efficient fine-tuning techniques for large language models.
 
-🌱 I’m currently learning:
-- Reinforcement Learning
-- Advanced Neural Network Architectures
+🌱 **Currently Learning:**
+- **Reinforcement Learning**
+- **Advanced Neural Network Architectures**
 
-💬 Ask me about:
+💬 **Expertise:**
 - AI and Machine Learning
 - Backend Development with Python and Go
 - Scalable Microservices Architecture
 
-📫 How to reach me:
-- Email: sanowl98@gmail.com
-
-⚡ Fun fact: I love exploring new algorithms and working on challenging problems in AI and software engineering.
+📫 **Contact:**
+- **Email:** sanowl98@gmail.com
 
 ---
 
 ## Featured Projects
 
 ### [Earthquake Magnitude Prediction using Neural Networks](#)
-Advanced prediction model using PyTorch and Neural Networks.
+Developed an advanced prediction model using PyTorch and neural networks to forecast earthquake magnitudes.
 
-### [Sentiment Analysis Project](#)
-Sentiment Analysis API using PyTorch and Hugging Face IMDB Dataset.
+### [Sentiment Analysis API](#)
+Created a sentiment analysis API utilizing PyTorch and the Hugging Face IMDB dataset for accurate sentiment classification.
 
 ### [StyleGAN3 Neural Network](#)
-State-of-the-art generative adversarial network for high-quality image generation.
+Implemented a state-of-the-art generative adversarial network for high-quality image generation.
 
 ### [Real-time Language Translator](#)
-Breaks down language barriers by providing instant translations using deep learning.
+Developed an application providing instant language translations using deep learning techniques.
 
 ---
 
@@ -49,18 +46,23 @@ Breaks down language barriers by providing instant translations using deep learn
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks and Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Tools and Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,3 +75,4 @@ Breaks down language barriers by providing instant translations using deep learn
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
+
