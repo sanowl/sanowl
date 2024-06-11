@@ -1,5 +1,3 @@
-# Hi there, I'm San 🦉
-
 **AI Software Engineer | Backend Developer | Full Stack Developer**
 
 ---
