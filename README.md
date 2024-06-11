@@ -1,6 +1,4 @@
-**AI Software Engineer | Backend Developer | Full Stack Developer**
 
----
 
 ## Most Used Programming Languages
 
