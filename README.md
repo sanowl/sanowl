@@ -21,7 +21,6 @@
 
 📫 How to reach me:
 - Email: sanowl98@gmail.com
-- LinkedIn: [San LinkedIn Profile](#)
 
 ⚡ Fun fact: I love exploring new algorithms and working on challenging problems in AI and software engineering.
 
@@ -74,7 +73,3 @@ Breaks down language barriers by providing instant translations using deep learn
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
-
-## Certifications
-- [Machine Learning by Stanford University](#)
-- [Deep Learning Specialization by Coursera](#)
