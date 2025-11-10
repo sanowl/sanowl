@@ -1,6 +1,6 @@
 # San
 
-AI and ML engineer focusing on agents and mechanistic interpretability.
+**ML engineer and mechanistic interpretability researcher working on agents.**
 
 ## Most Used Languages
 
@@ -8,4 +8,4 @@ AI and ML engineer focusing on agents and mechanistic interpretability.
 
 ## Contact
 
-Email: san.hashimhama@outlook.com
+**Email:** san.hashimhama@outlook.com
